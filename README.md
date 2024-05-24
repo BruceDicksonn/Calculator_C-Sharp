@@ -1,0 +1,1 @@
+This is a project where I was able to put into practice some concepts of the C# language using Windows Forms. To build it, I used an external library called Dang.Calculator. A great option if you want to create a project of this type.
