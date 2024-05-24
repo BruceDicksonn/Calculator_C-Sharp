@@ -131,7 +131,7 @@ namespace WindowsFormsAppCalculadora
                 expression += $" { target.Tag.ToString() } ";
                 currentDisplayValue = "";
                 LastNumber = CurrentNumber;
-                //CurrentNumber = "";
+                CurrentNumber = "";
                 CurrentOperator = target.Tag.ToString();
                 updateDisplayExpression();
                 return;
